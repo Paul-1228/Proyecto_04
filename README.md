@@ -1,6 +1,6 @@
 
 # Proyecto_04
-En este proyecto se pretende realizar la simulación de un sistema de comunicaciones. Se realizó el método por amplitud en cuadratura debido a su sencillez con una modulación 16-QAM. Existen otros métodos como modulación por frecuencia o por una onda (para este caso fueron 2 ondas, una con seno y la otra con coseno). Esto nos ayuda a entender uno de los principios de las telecomunicaciones en distintos ámbitos  como la radiofrecuencias, Bluetooth y Wi-Fi.
+En este proyecto se pretende realizar la simulación de un sistema de comunicaciones. Se realizó el método por amplitud en cuadratura debido a su sencillez con una modulación 16-QAM. Existen otros métodos como modulación por frecuencia o por una onda (para este caso fueron 2 ondas, una con seno y la otra con coseno). Esto nos ayuda a entender uno de los principios de las telecomunicaciones en distintos ámbitos  como las radiofrecuencias, Bluetooth y Wi-Fi.
 
 
 ## Resultados
