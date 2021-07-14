@@ -1,4 +1,6 @@
 # Proyecto_04
+En este proyecto se realizó el método por amplitud en cuadratura debido a su sencillez. Existen otros métodos como modulación por frecuencia o por una onda (para este caso fueron 2 ondas). Esto nos ayuda a entender uno de los principios de las telecomunicaciones en distintos ámbitos  como la radiofrecuencias, Bluetooth y Wi-Fi.
+
 
 ## Conclusiones
 
