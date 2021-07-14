@@ -19,4 +19,4 @@ Dentro de los resultados se puede destacar que la media en todo momento se manti
 
 ![Densidad](https://user-images.githubusercontent.com/85918010/125578488-dd9e811e-d3a2-409a-9e83-29eb9dc134ba.png)
 
-Con respecto a la gráfica de la densidad espectral de potencia, es visible notar como su valor máximo se da a una frecuencia de 5000 Hz, esto por el hecho de que fue el valor predefinido dentro del código.
+Con respecto a la gráfica de la densidad espectral de potencia, es visible notar como su valor máximo se da a una frecuencia de 5000 Hz (frecuencia de las señales portadoras), esto por el hecho de que fue el valor predefinido dentro del código. 
